@@ -1,2 +1,8 @@
 # MWA_Flutter_TodoApp
-This is a todo app made using Flutter
+This is a to-do app made using Flutter
+
+A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
+
+## Screenshot
+
+![Flutter todo app](./flutter-todo-iphone.png)
